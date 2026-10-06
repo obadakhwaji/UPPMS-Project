@@ -1,8 +1,6 @@
-\# UPPMS — University Programming Project Management System
+# UPPMS — University Programming Project Management System
 
-
-
-> A full-stack platform for managing university programming projects, academic tracks, project workflows, scheduling, GitHub integration, and AI-assisted project development.
+> A full-stack university project management platform built with Laravel, React, and MySQL. UPPMS provides project lifecycle management, multi-tenancy, role-based access control, GitHub integration, XML-based registration, AI-assisted project development, academic tracking, and genetic algorithm-based scheduling.
 
 
 
